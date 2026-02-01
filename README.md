@@ -19,6 +19,6 @@ Este proyecto consiste en la transformación de un laptop empresarial (HP ProBoo
 * **Estabilidad del Sistema:** Una serie de ajustes debieron de ser utilizados primero para instalar windows desde un disco NVME conectado por USB. Los otros ajustes corresponden a cambios en la BIOS como opciones de energía para priorizar rendimiento y el uso de aplicaciones como ThrottleStop para aumentar también el rendimiento del notebook y no generar cuellos de botella entre CPU y eGPU.
 
 ## 4. Próximos Pasos (Roadmap)
-- [ ] Implementar un sistema de refrigeración externa dedicado, actualmente un ventilidar de notebook ha sido satisfactorio.
-- [ ] Optimización de drivers para evitar el cuello de botella (bottleneck) de la CPU. Esto ha sido realizado con ThrottleStop
-- [ ] Experimentación con LLMs locales (IA) aprovechando la VRAM de la eGPU. Aún no se realiza este paso
+- [ ] Implementar un sistema de refrigeración externa dedicado, actualmente un ventiladar de notebook ha sido satisfactorio.
+- [ ] Optimización de drivers para evitar el cuello de botella (bottleneck) de la CPU. Esto ha sido realizado con ThrottleStop.
+- [ ] Experimentación con LLMs locales (IA) aprovechando la VRAM de la eGPU. Aún no se realiza este paso.
